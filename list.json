@@ -5,19 +5,19 @@
         "list": [
             "https://htmlacademy.ru/",
             "htmlacademy",
-            "special",
+            null,
             "https://stepik.org/catalog",
             "stepik",
-            null,
+            "empty",
             "https://codebra.ru/",
             "codebra",
-            null,
+            "old",
             "http://theory.phphtml.net/tasks/",
             "theory.phphtml",
-            null,
+            "resent",
             "http://www.quizfol.net/test",
             "quizfol",
-            "empty",
+            null,
             "https://www.codeschool.com/",
             "codeschool",
             null,
@@ -29,7 +29,7 @@
             null,
             "https://www.codecademy.com/",
             "DO YOU HAVE WHAT IT TAKES TO BE A FRONT END DEVELOPER?",
-            "empty"
+            null
         ]
     }
 }
